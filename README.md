@@ -1,2 +1,4 @@
 # hello-world
-Actor and artist exploring the world of code
+I'm an actor, writer, artist and personal trainer exploring the world of code.
+
+I make art and second breakfast. 
